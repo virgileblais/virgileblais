@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hey there, I'm Virgile.👋
 
-<!--
-**virgileblais/virgileblais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A brief introduction.
 
-Here are some ideas to get you started:
+## Pages:
+- [🗺️Roadmap](https://virgileblais.github.io/roadmap/)
+- [✍️Practice](https://github.com/virgileblais/practice)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Social Media:
+<a href="https://www.linkedin.com/in/virgile-bissonnette-blais-b3b067155/">
+    <img src="images/LinkedIn-Logos/LI-In-Bug.png" alt="LinkedIn" width="50">
+</a>
+<a href="https://twitter.com/virgileblais/">
+    <img src="images/x-logo/logo-white.png" alt="Twitter" width="40"/>
+</a>
