@@ -1,10 +1,12 @@
 # Hey there, I'm Virgile.👋
 
-A brief introduction.
+I'm a self-taught developer who just finished learning front-end web development and aspires to learn much, much more.
+
+Check out my roadmap site below to see my journey thus far and where I plan to go next in my learnings.
 
 ## Pages:
-- [🗺️Roadmap](https://virgileblais.github.io/roadmap/)
-- [✍️Practice](https://github.com/virgileblais/practice)
+### [🗺️Roadmap](https://virgileblais.github.io/roadmap/)
+### [✍️Practice](https://github.com/virgileblais/practice)
 
 ## Social Media:
 <a href="https://www.linkedin.com/in/virgile-bissonnette-blais-b3b067155/">
