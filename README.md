@@ -1,8 +1,8 @@
 # Hey there, I'm Virgile.👋
 
-I'm a self-taught developer who recently learned front-end web development and aspires to learn much, much more.
+I'm a developer that is currently building react apps, learning robotics and control systems, and aspires to learn much, much more.
 
-Check out my roadmap site below to see my journey thus far and where I plan to go next in my learnings.
+Check out my roadmap site below to see my journey thus far (not up-to-date) and where I plan to go next in my learnings.
 
 # Pages:
 ### [🗺️Roadmap](https://virgileblais.github.io/roadmap/)
