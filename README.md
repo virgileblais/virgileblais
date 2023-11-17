@@ -1,6 +1,6 @@
 # Hey there, I'm Virgile.👋
 
-I'm a developer that is currently building react apps, learning robotics and control systems, and aspires to learn much, much more.
+I'm a developer that is currently building react apps, learning robotics and control systems, and aspiring to learn much, much more.
 
 Check out my roadmap site below to see my journey thus far (not up-to-date) and where I plan to go next in my learnings.
 
