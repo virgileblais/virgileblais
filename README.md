@@ -1,6 +1,6 @@
 # Hey there, I'm Virgile.👋
 
-I'm a developer that is currently building react apps, learning robotics and control systems, and aspiring to learn much, much more.
+I'm a front-end developer that is currently expanding to full-stack development, learning robotics and control systems, and aspiring to learn much more.
 
 Check out my roadmap site below to see my journey thus far (not up-to-date) and where I plan to go next in my learnings.
 
