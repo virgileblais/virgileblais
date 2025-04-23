@@ -1,17 +1,10 @@
 # Hey there, I'm Virgile.👋
 
-I'm a front-end developer that is currently expanding to full-stack development, learning robotics and control systems, and aspiring to learn much more.
+I’m a full-stack **developer** and multi-media **designer** who loves learning how to build new things.
 
-Check out my roadmap site below to see my journey thus far (not up-to-date) and where I plan to go next in my learnings.
-
-# Pages:
-### [🗺️Roadmap](https://virgileblais.github.io/roadmap/)
-### [✍️Practice](https://github.com/virgileblais/practice)
 
 # Social Media:
-<a href="https://www.linkedin.com/in/virgile-bissonnette-blais-b3b067155/">
-    <img src="images/LinkedIn-Logos/LI-In-Bug.png" alt="LinkedIn" width="40">
-</a>
-<a href="https://twitter.com/virgileblais/">
-    <img src="images/x-logo/logo-white.png" alt="Twitter" width="32"/>
-</a>
+<a href="https://x.com/virgileblais/"><img src="icons/x/3d.png" alt="X" width="40"/></a>
+<a href="https://www.linkedin.com/in/virgile-bissonnette-blais-b3b067155/"><img src="icons/linked-in/3d.png" alt="LinkedIn" width="40"/></a>
+<a href="https://www.printables.com/@vblais_2149373"><img src="icons/printables/3d.png" alt="Printables" width="40"/></a>
+<a href="https://sketchfab.com/virgile-blais"><img src="icons/sketchfab/3d.png" alt="Sketchfab" width="40"/></a>
